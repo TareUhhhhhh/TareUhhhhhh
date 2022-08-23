@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TareUhhhhhh
-- 👀 I’m interested in DIY crafts, video games and of course, web design and development!
-- 🌱 I’m currently learning HTML, CSS and PHP. Javascript to come soon!
-- 💞️ I’m looking to collaborate on responsive web design projects!
+- 👀 I’m interested in DIY crafts, video games and of course, web development!
+- 🌱 I’m currently learning HTML, CSS, PHP and Javascript
+- 💞️ I’m looking to collaborate on responsive design, , HTML, CSS and PHP projects!
 - 📫 How to reach me ...
 
 <!---
